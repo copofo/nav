@@ -1,8 +1,10 @@
 // LINKS DO GOOGLE DRIVE (substitua pelos seus IDs)
-const firefoxLink = "https://drive.google.com/uc?export=download&id=1BsDnZBxsbNTJ0cA5GpxIJRTbAVzUIKa9";
-const appLink = "https://drive.google.com/uc?export=download&id=1Ryn7OderxG96mtsVFACveD4If8ZqMX9v";
+const firefoxLink = "https://drive.google.com/uc?export=download&id=1l3MH_pb5Di2CH7vqFWFHVMtKdIH6PSgc";
+const appLink = "https://drive.google.com/uc?export=download&id=10hh4BDHI9GwWIjuK0huZieXvPKYkTmSR";
 
+//https://drive.google.com/file/d/1l3MH_pb5Di2CH7vqFWFHVMtKdIH6PSgc/view?usp=sharing
 
+//https://drive.google.com/file/d/10hh4BDHI9GwWIjuK0huZieXvPKYkTmSR/view?usp=sharing
 
 
 // Detectar sistema
