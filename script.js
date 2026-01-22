@@ -1,6 +1,9 @@
 // LINKS DO GOOGLE DRIVE (substitua pelos seus IDs)
-const firefoxLink = "https://drive.google.com/uc?export=download&id=SEU_ID_FIREFOX";
-const appLink = "https://drive.google.com/uc?export=download&id=SEU_ID_APP";
+const firefoxLink = "https://drive.google.com/uc?export=download&id=1BsDnZBxsbNTJ0cA5GpxIJRTbAVzUIKa9";
+const appLink = "https://drive.google.com/uc?export=download&id=1Ryn7OderxG96mtsVFACveD4If8ZqMX9v";
+
+
+
 
 // Detectar sistema
 const osText = document.getElementById("os-detect");
